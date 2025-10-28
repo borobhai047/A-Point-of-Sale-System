@@ -3,7 +3,7 @@
 
 ##
 - Wasiul Islam 1822615
-- Asfi Ahmed 1822729
+- Asfi Ahmed 1822729 {Group Leader}
 - Abdullah Sami 1822735
 
 
@@ -15,7 +15,7 @@
 | Member | Task |
 | ----------- | ----------- |
 | ISLAM WASIUL | class.php |
-| AHMED ASFI | index.php |
+| AHMED ASFI | index.php and overall project supervision|
 | SAMI ABDULLAH | mysql.php |
 
 <br>
